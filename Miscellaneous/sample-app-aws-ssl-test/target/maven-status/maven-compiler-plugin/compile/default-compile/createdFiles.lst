@@ -1,2 +1,3 @@
-com/example/MainApplication.class
 com/example/TestController.class
+com/example/SecurityConfig.class
+com/example/MainApplication.class
